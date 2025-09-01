@@ -1,5 +1,6 @@
-# PDF Chatbot with RAG and LangSmith Tracing
 
+# PDF Chatbot with RAG and LangSmith Tracing
+![Retrieval Augmented Generation](https://python.langchain.com/assets/images/rag_concepts-4499b260d1053838a3e361fb54f376ec.png)
 A FastAPI and Streamlit-based application for uploading PDFs, storing their content in Pinecone, and querying them using Retrieval-Augmented Generation (RAG) with OpenAI embeddings and LangSmith tracing.
 
 ## Features
@@ -106,3 +107,4 @@ project/
 
 ## License
 MIT License
+
