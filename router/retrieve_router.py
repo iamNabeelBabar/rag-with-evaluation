@@ -15,8 +15,8 @@ from langchain_core.output_parsers import StrOutputParser
 # These must be set for the @traceable decorator to work.
 os.environ["LANGSMITH_TRACING"] = "true"
 os.environ["LANGSMITH_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGSMITH_API_KEY"] = "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"
-os.environ["LANGSMITH_PROJECT"] = "pr-tart-simple-92"
+os.environ["LANGSMITH_API_KEY"] = "Lansmith api key"
+os.environ["LANGSMITH_PROJECT"] = "2"
 # -----------------------
 
 # Load OpenAI and Pinecone API keys from environment
